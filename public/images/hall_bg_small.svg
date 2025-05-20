@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="83" viewBox="0 0 58 83">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="58" height="83" transform="translate(2651 197)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="hall_bg_small" transform="translate(-2651 -197)" opacity="0.76" clip-path="url(#clip-path)">
+    <g id="Group_31" data-name="Group 31" transform="translate(-823 -92)" opacity="0.71">
+      <g id="Group_31-2" data-name="Group 31" transform="translate(3382.677 203.335) rotate(-14)">
+        <path id="Path_105" data-name="Path 105" d="M74,35.857,95.486,75.629,138,81.571,107.371,112.2l7.771,47.086L74,136.429,32.857,159.286,40.629,112.2,10,81.571l42.514-5.943Zm9.143,0H64.857a9.17,9.17,0,0,1-9.143-9.143V22.143A9.17,9.17,0,0,1,64.857,13H83.143a9.17,9.17,0,0,1,9.143,9.143v4.571A9.17,9.17,0,0,1,83.143,35.857ZM64.857,22.143v4.571H83.143V22.143Z" transform="translate(-10 32.714)" fill="#ffd54f"/>
+        <path id="Path_106" data-name="Path 106" d="M74,59.143a25.307,25.307,0,0,1,15.543,5.029l5.486-6.4L74,18Zm33.371,35.2L138,63.714,98.686,75.143a24.784,24.784,0,0,1,2.743,11.429,17.141,17.141,0,0,1-.457,5.029ZM74,114v4.571l41.143,22.857L91.829,107.6A27.475,27.475,0,0,1,74,114ZM47.029,91.6l-6.4,2.286-7.771,47.543L56.171,107.6A29.659,29.659,0,0,1,47.029,91.6ZM58.457,64.171l-5.486-6.4L10,63.714,49.314,75.143A23.78,23.78,0,0,1,58.457,64.171Zm33.829,22.4A18.286,18.286,0,1,1,74,68.286,18.339,18.339,0,0,1,92.286,86.571Z" transform="translate(-10 50.571)" fill="#ffb300"/>
+        <path id="Path_107" data-name="Path 107" d="M13,3H113.571V25.857L72.429,62.429H54.143L13,25.857Z" transform="translate(0.714 -3)" fill="#3f51b5"/>
+        <path id="Path_108" data-name="Path 108" d="M81,3H17V42.314L39.857,62.429H58.143L81,42.314Z" transform="translate(15 -3)" fill="#cfd8dc"/>
+        <path id="Path_109" data-name="Path 109" d="M22,3H40.286V62.429H22Z" transform="translate(32.857 -3)" fill="#ff1744"/>
+      </g>
+    </g>
+  </g>
+</svg>

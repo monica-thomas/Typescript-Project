@@ -1,0 +1,15 @@
+<svg id="wfh_graphics" xmlns="http://www.w3.org/2000/svg" width="84.549" height="75.873" viewBox="0 0 84.549 75.873">
+  <path id="Path_70" data-name="Path 70" d="M7.333,23.715,37.665,5.667,70.754,23.715l-2.507,54.4L7.333,76.859Z" transform="translate(4.519 -4.014)" fill="#edf1f9"/>
+  <g id="wfh_graphics-2" data-name="wfh_graphics" transform="translate(0 0)">
+    <path id="Path_65" data-name="Path 65" d="M4.468,0H13.4c2.468,0,4.468,2.331,4.468,5.206V29.672H0V5.206C0,2.331,2,0,4.468,0Z" transform="translate(36.861 44.734)" fill="#00c1b4"/>
+    <g id="Group_87" data-name="Group 87" transform="translate(0 0)">
+      <path id="Path_64" data-name="Path 64" d="M75.21,98.831a8.88,8.88,0,0,1-8.87,8.87H18.479a8.88,8.88,0,0,1-8.87-8.87V54.021L2.283,58.774a1.478,1.478,0,0,1-1.609-2.48L35.126,33.941a13.148,13.148,0,0,1,14.3,0l8.6,5.581c-.094-.068,2.881,1.94,2.957,1.918L83.875,56.294a1.48,1.48,0,0,1-.806,2.719c-.648,0,1.689,1.379-35.255-22.591a10.189,10.189,0,0,0-11.079,0L12.566,52.1V98.831a5.92,5.92,0,0,0,5.913,5.913H53.59V80.255a3.233,3.233,0,0,0-3.229-3.229H34.274a3.233,3.233,0,0,0-3.229,3.229v24.638a1.478,1.478,0,1,1-2.957,0V80.255a6.193,6.193,0,0,1,6.186-6.186H50.361a6.193,6.193,0,0,1,6.186,6.186v24.49H66.34a5.92,5.92,0,0,0,5.913-5.913,1.478,1.478,0,1,1,2.957,0ZM73.732,50.436a1.478,1.478,0,0,1,1.478,1.478V98.646a1.478,1.478,0,1,1-2.957,0V51.915A1.478,1.478,0,0,1,73.732,50.436Z" transform="translate(0 -31.828)" fill="#4a4d4d"/>
+    </g>
+    <g id="Icon_feather-wifi" data-name="Icon feather-wifi" transform="translate(31.247 18.308)">
+      <path id="Path_66" data-name="Path 66" d="M7.5,17.659a11.465,11.465,0,0,1,14.676,0" transform="translate(-3.769 -9.792)" fill="none" stroke="#4a4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_67" data-name="Path 67" d="M2.13,11.67a16.677,16.677,0,0,1,22.055,0" transform="translate(-2.13 -7.504)" fill="none" stroke="#4a4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_68" data-name="Path 68" d="M12.8,23.658a6.254,6.254,0,0,1,7.244,0" transform="translate(-5.384 -12.08)" fill="none" stroke="#4a4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_69" data-name="Path 69" d="M18,30h0" transform="translate(-6.973 -14.368)" fill="none" stroke="#4a4d4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

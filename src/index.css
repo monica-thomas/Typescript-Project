@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .login-bg {
+    width: 375px;
+    background: url("/images/login-bg.png") no-repeat;
+    min-height: 482px;
+    margin-right: 20px;
+    background-size: contain;
+    background-position: bottom center;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .outer-login {
+    display: flex;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  .login-section {
+    width: 405px;
+    padding: 30px;
+    background: white;
+    border-radius: 10px;
+    border-left: 1px solid #edf1f9;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+}
+
+/* Animation for loading indicator */
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+/* Focus styles */
+*:focus {
+  outline: none;
+}
+
+/* Custom focus ring for buttons */
+.focus\:ring:focus {
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.5);
+}

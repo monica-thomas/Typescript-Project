@@ -1,0 +1,12 @@
+<svg id="hall_of_fame" xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <circle id="Ellipse_6" data-name="Ellipse 6" cx="26" cy="26" r="26" fill="#f2f2f2"/>
+  <g id="Group_28" data-name="Group 28" transform="translate(9.287 7.8)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="14.453" cy="14.453" r="14.453" transform="translate(2.228 0)" fill="#ffd15c"/>
+    <g id="Group_27" data-name="Group 27" transform="translate(0 22.865)">
+      <path id="Path_102" data-name="Path 102" d="M19.5,223.79l-4.973,8.62,5.8-.308,2.637,5.181,4.6-7.975A14.438,14.438,0,0,1,19.5,223.79Z" transform="translate(-14.525 -223.747)" fill="#40596b"/>
+      <path id="Path_103" data-name="Path 103" d="M221.582,223.37a14.443,14.443,0,0,1-8.047,5.546l4.614,7.989,2.637-5.181,5.8.308Z" transform="translate(-193.164 -223.37)" fill="#40596b"/>
+    </g>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="10.476" cy="10.476" r="10.476" transform="translate(6.205 3.977)" fill="#f8b64c"/>
+    <path id="Path_104" data-name="Path 104" d="M120.263,78.5a.547.547,0,0,0-.3-.931l-4.134-.6a.539.539,0,0,1-.408-.3l-1.849-3.747a.546.546,0,0,0-.982,0l-1.841,3.747a.569.569,0,0,1-.408.3l-4.134.6a.547.547,0,0,0-.3.931l2.988,2.916a.552.552,0,0,1,.158.48l-.7,4.113a.546.546,0,0,0,.8.573l3.7-1.942a.534.534,0,0,1,.509,0l3.7,1.942a.549.549,0,0,0,.8-.573l-.709-4.113a.539.539,0,0,1,.158-.48Z" transform="translate(-96.402 -65.175)" fill="#fff"/>
+  </g>
+</svg>
