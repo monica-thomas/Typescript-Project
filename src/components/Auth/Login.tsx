@@ -13,7 +13,7 @@ import Button from '../UI/Button';
 import Checkbox from '../UI/Checkbox';
 import FormFeedback from '../UI/FormFeedback';
 import Alert from '../UI/Alert';
-import { AlertTriangle } from 'lucide-react';
+import { AlertTriangle,Eye,EyeOff } from 'lucide-react';
 
 const Login: React.FC = () => {
   const [formControls, setFormControls] = useState({
@@ -32,6 +32,7 @@ const Login: React.FC = () => {
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [usernameError, setUsernameError] = useState('');
   const [rememberMe, setRememberMe] = useState(false);
+  const [showPassword, setShowPassword] = useState(false);
 
   const dispatch = useDispatch<AppDispatch>();
   const navigate = useNavigate();
@@ -185,19 +186,31 @@ const Login: React.FC = () => {
 
               <FormGroup>
                 <Label htmlFor="password">Password</Label>
-                <Input
-                  type="password"
-                  name="password"
-                  id="password"
-                  value={formControls.password.value}
-                  placeholder="Password..."
-                  className="bg-white"
-                  onChange={(event) => inputChangedHandler(event, 'password')}
-                  invalid={
-                    (!formControls.password.valid && formControls.password.touched) ||
-                    (isSubmitted && !formControls.password.touched)
-                  }
-                />
+                <div className="relative">
+                  <Input
+                    type={showPassword ? 'text' : 'password'}
+                    name="password"
+                    id="password"
+                    value={formControls.password.value}
+                    placeholder="Password..."
+                    className="bg-white pr-10" // extra space for icon
+                    onChange={(event) => inputChangedHandler(event, 'password')}
+                    invalid={
+                      (!formControls.password.valid && formControls.password.touched) ||
+                      (isSubmitted && !formControls.password.touched)
+                    }
+                  />
+                  <span
+                    className="absolute right-2 top-1/2 transform -translate-y-1/2 text-gray-600 cursor-pointer"
+                    onClick={() => setShowPassword(prev => !prev)}
+                  >
+                  {showPassword ? (
+                <EyeOff className="h-5 w-5" />
+              ) : (
+                <Eye className="h-5 w-5" />
+              )}
+                  </span>
+                </div>
                 <FormFeedback>{usernameError}</FormFeedback>
               </FormGroup>
 
